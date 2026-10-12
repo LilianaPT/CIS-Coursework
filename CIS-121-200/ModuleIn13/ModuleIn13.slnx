@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Count_the_Letter/Count_the_Letter.vcxproj" Id="5c0e3aa8-d009-49bf-b3d5-154bdb99a860" />
+  <Project Path="Excersice1/Excersice1.vcxproj" Id="9a245520-8003-4002-b0a6-1040e3223a1e" />
+  <Project Path="ReverseNames/ReverseNames.vcxproj" Id="b90c39fd-df19-493e-bf8a-4acbed7414f1" />
+  <Project Path="Word_Separator/Word_Separator.vcxproj" Id="a60dfe01-ac12-44ef-b154-070bd74f8d59" />
+</Solution>

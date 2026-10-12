@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Arrays1/Arrays1.vcxproj" Id="b0ae856c-7c9c-4d68-ba01-a1eed6d9c07c" />
+  <Project Path="Char_Reverse_Order/Char_Reverse_Order.vcxproj" Id="d42113a0-3452-46f1-a422-f696bfe42d14" />
+  <Project Path="Excersice4/Excersice4.vcxproj" Id="0942e898-6aab-4f7b-a6d7-9a4c4a6a5432" />
+  <Project Path="Lottery_Game/Lottery_Game.vcxproj" Id="3cceb423-c23c-429c-ba2a-e078f533d210" />
+  <Project Path="Processing_Array/Processing_Array.vcxproj" Id="4356bf49-724a-44d6-8c83-15968b3a9a24" />
+</Solution>

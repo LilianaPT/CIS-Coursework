@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Example1/Example1.vcxproj" Id="a3820e83-8612-4229-83d5-746ef93d18c9" />
+  <Project Path="PizzaParty/PizzaParty.vcxproj" Id="32627c46-f438-497c-a782-a68868e216e9" />
+  <Project Path="QuadraticFormula/QuadraticFormula.vcxproj" Id="71a45f5c-63e8-468a-a41b-de11f4eb4621" />
+  <Project Path="Time/Time.vcxproj" Id="6e3dc6d5-2f36-44e0-bbe0-489896e59365" />
+</Solution>

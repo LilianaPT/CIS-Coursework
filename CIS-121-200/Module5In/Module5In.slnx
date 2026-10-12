@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exercise1/Exercise1.vcxproj" Id="dd3b58f2-d8c8-4386-ad61-cde8ad6e6be2" />
+  <Project Path="Exercise2/Exercise2.vcxproj" Id="68663f03-9968-40a2-9262-402cca315a81" />
+  <Project Path="FindingPi/FindingPi.vcxproj" Id="1ad9827d-bf8d-49b6-85c4-acdb82c8ec7b" />
+  <Project Path="Lab5-SumLargestSmallest/Lab5-SumLargestSmallest.vcxproj" Id="a27f3a39-78ad-47de-b712-2ff6355cff37" />
+</Solution>

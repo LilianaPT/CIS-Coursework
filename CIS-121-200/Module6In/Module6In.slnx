@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Exercise1/Exercise1.vcxproj" Id="a9d95c23-9442-4247-b648-d85124731736" />
+  <Project Path="Exercise2/Exercise2.vcxproj" Id="d16bbe41-a495-4d74-b98e-3fe6e0ecf556" />
+  <Project Path="Geometry_Calculator/Geometry_Calculator.vcxproj" Id="3d7df331-5f50-439d-837d-93845dd5e2c5" />
+  <Project Path="MultiplicationTable/MultiplicationTable.vcxproj" Id="56294b05-14b2-46a0-887f-4faa6ad03d4f" />
+</Solution>

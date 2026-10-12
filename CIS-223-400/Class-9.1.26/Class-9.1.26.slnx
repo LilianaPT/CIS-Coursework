@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Chapter11-Structures/Chapter11-Structures.vcxproj" Id="1b5bc0bf-6106-4e85-bb7b-1b65e72d66ae" />
+  <Project Path="Monthly-Budget/Monthly-Budget.vcxproj" Id="30359471-816b-42c5-9fcf-43191a131b95" />
+  <Project Path="MovieData/MovieData.vcxproj" Id="1b5cd5ed-2f2b-4360-9064-23d61ebfd5aa" />
+  <Project Path="Soccer-Scores-Team/Soccer-Scores-Team.vcxproj" Id="40564059-6c47-4860-8973-a19f80e7c667" />
+</Solution>

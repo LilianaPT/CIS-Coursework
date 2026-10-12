@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Files/Files.vcxproj" Id="a5fadb68-5e80-48a0-bb4a-7f061a96b58f" />
+  <Project Path="WorkingWithFiles/WorkingWithFiles.vcxproj" Id="f9e85922-89d7-45e1-a804-2c444192c614" />
+</Solution>

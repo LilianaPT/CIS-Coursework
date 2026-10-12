@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Multi-Student_ExamGrader/Multi-Student_ExamGrader.vcxproj" Id="b05e0082-60ef-4621-8539-f406d561a311" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PatientCharge/PatientCharge.vcxproj" Id="8297b81c-f6fa-4019-a07f-e81e7c3a6538" />
+</Solution>

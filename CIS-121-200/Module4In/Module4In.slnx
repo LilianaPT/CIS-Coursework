@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Basic_Operations/Basic_Operations.vcxproj" Id="73f6b0e2-2992-426d-9c5e-cc885186adee" />
+  <Project Path="InClass1/InClass1.vcxproj" Id="364279d7-0aee-46b3-a09c-61cbf77734e5" />
+  <Project Path="Looping_PrimeNumbers/Looping_PrimeNumbers.vcxproj" Id="f4353289-79cc-4688-b046-c5bcdff381eb" />
+  <Project Path="Module4Ex/Module4Ex.vcxproj" Id="460f58a1-0010-4baf-9b7e-b243dcb9a014" />
+  <Project Path="Water_Bill/Water_Bill.vcxproj" Id="89d53be6-12dc-44fd-ba27-25d47a769806" />
+</Solution>

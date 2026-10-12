@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="2DArrayEx/2DArrayEx.vcxproj" Id="5e939e32-9b00-49d4-a89e-1788bef29a48" />
+  <Project Path="ClassEx/ClassEx.vcxproj" Id="8183a4a2-3110-4965-a788-661592aa6ee2" />
+  <Project Path="Performance_Benchmark/Performance_Benchmark.vcxproj" Id="2d6b9886-8dc5-4f6c-b18d-626e65a1e130" />
+  <Project Path="Processing_2DArrays/Processing_2DArrays.vcxproj" Id="68e03952-a52c-4f57-bb13-8f98ea21bc70" />
+  <Project Path="StudentEx/StudentEx.vcxproj" Id="0014afb6-0cd2-4381-9219-51092f5c9772" />
+</Solution>

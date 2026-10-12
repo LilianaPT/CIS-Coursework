@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Chapter 9-HW1.2/Chapter 9-HW1.2.vcxproj" Id="3dc2a3a1-ecb9-40cf-bd40-e3fa267cde58" />
+  <Project Path="Chapter9-HW1.1/Chapter9-HW1.1.vcxproj" Id="7a515c4f-03bf-4c71-b7cf-63e2653f929a" />
+  <Project Path="MovieStatistics/MovieStatistics.vcxproj" Id="1641c9a3-b27b-43fe-96d5-66f300d3827a" />
+  <Project Path="WEEK8-18-26/WEEK8-18-26.vcxproj" Id="d1a16571-2e6e-45e6-be95-941e51d20017" />
+</Solution>

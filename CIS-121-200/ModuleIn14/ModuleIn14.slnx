@@ -1,0 +1,14 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Circle_Class/Circle_Class.vcxproj" Id="ff6237f2-d226-46b5-a5f3-c9564ad05e71" />
+  <Project Path="Employee_Class/Employee_Class.vcxproj" Id="c1fe89ce-2c09-4af4-8e46-4fcaf3c67d92" />
+  <Project Path="Example1/Example1.vcxproj" Id="80bcbc3c-02b7-4eff-b014-b6b1fe686a9a" />
+  <Project Path="Example2/Example2.vcxproj" Id="72f2fc37-fb8f-4f37-9c9a-9c8f4128375f" />
+  <Project Path="Example3/Example3.vcxproj" Id="048f4611-bbb9-4520-90da-d4d887f4b182" />
+  <Project Path="Example4/Example4.vcxproj" Id="04194a99-e9ee-4371-b0ad-e94ad0978582" />
+  <Project Path="Movie_Class/Movie_Class.vcxproj" Id="99ecfd4e-5f00-4f78-97b9-58b02e3b0137" />
+  <Project Path="Payroll/Payroll.vcxproj" Id="bdc7329e-b71c-491e-881c-84c5d183152e" />
+</Solution>

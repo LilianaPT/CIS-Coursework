@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../Module2-Practice/Module2-Practice/Module2-Practice.vcxproj" Id="54a1c25c-c9af-4175-80d2-541b271fd4f1" />
+  <Project Path="Module2-Prac2/Module2-Prac2.vcxproj" Id="8ec1281e-9b09-4d29-82ad-667f5f8a231e" />
+  <Project Path="Module2In/Module2In.vcxproj" Id="0274b231-b235-4e41-8ae8-10c97bd1cc9a" />
+</Solution>

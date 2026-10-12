@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Password/Password.vcxproj" Id="4df0be25-44d2-4e95-95b6-fd947d5a25b0" />
+  <Project Path="Quadratic_Formula/Quadratic_Formula.vcxproj" Id="57eb4c8a-7c94-4bc3-b418-cbe011e7e3c7" />
+  <Project Path="SumDigitswString/SumDigitswString.vcxproj" Id="21c2bee8-6b40-4e0d-a219-53dd5a33300c" />
+</Solution>

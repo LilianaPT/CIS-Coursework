@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CashRegister/CashRegister.vcxproj" Id="4c3fa244-b10f-4fe4-aa75-ba0733903ac8" />
+</Solution>

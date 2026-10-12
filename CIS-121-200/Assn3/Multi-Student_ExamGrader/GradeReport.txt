@@ -1,0 +1,153 @@
+
+Grading: Student1.txt
+Q#  Student Answer  Correct Answer
+--- --------------  --------------
+ 1           A           A
+ 2           D         --> D
+ 3           B           B
+ 4           D           C
+ 5           A           A
+ 6           A           A
+ 7           D           D
+ 8           B           B
+ 9           D           D
+10           C         --> C
+11           A           A
+12           A           D
+13           B           B
+14           A           A
+15           C         --> C
+16           C           C
+17           C           D
+18           B           B
+19           C           C
+20           A           A
+
+Correct Questions: 17 / 20
+Percentage: 85.00%
+Result: PASSED
+----------------------------------------
+
+Grading: Student2.txt
+Q#  Student Answer  Correct Answer
+--- --------------  --------------
+ 1           A           A
+ 2           D           D
+ 3           B           B
+ 4           C         --> C
+ 5           A           A
+ 6           D         --> A
+ 7           D           D
+ 8           C           B
+ 9           D           D
+10           C         --> C
+11           A           A
+12           A           D
+13           B           B
+14           A         --> A
+15           C         --> C
+16           A           C
+17           C         --> D
+18           B           B
+19           D           C
+20           A           A
+
+Correct Questions: 14 / 20
+Percentage: 70.00%
+Result: PASSED
+----------------------------------------
+
+Grading: Student3.txt
+Q#  Student Answer  Correct Answer
+--- --------------  --------------
+ 1           A           A
+ 2           C           D
+ 3           B           B
+ 4           D           C
+ 5           B           A
+ 6           A           A
+ 7           D           D
+ 8           B           B
+ 9           A           D
+10           C           C
+11           A           A
+12           A           D
+13           D           B
+14           A           A
+15           B           C
+16           C           C
+17           A           D
+18           B           B
+19           C           C
+20           B           A
+
+Correct Questions: 11 / 20
+Percentage: 55.00%
+Result: FAILED
+----------------------------------------
+
+Grading: Student4.txt
+Q#  Student Answer  Correct Answer
+--- --------------  --------------
+ 1           A           A
+ 2           D         --> D
+ 3           B           B
+ 4           D           C
+ 5           A           A
+ 6           A           A
+ 7           D           D
+ 8           B           B
+ 9           D           D
+10           C         --> C
+11           A         --> A
+12           A           D
+13           D         --> B
+14           A           A
+15           B         --> C
+16           C           C
+17           A           D
+18           B         --> B
+19           C           C
+20           B           A
+
+Correct Questions: 14 / 20
+Percentage: 70.00%
+Result: PASSED
+----------------------------------------
+
+Grading: Student5.txt
+Q#  Student Answer  Correct Answer
+--- --------------  --------------
+ 1           A           A
+ 2           D           D
+ 3           B           B
+ 4           C         --> C
+ 5           A           A
+ 6           D         --> A
+ 7           D           D
+ 8           C         --> B
+ 9           D           D
+10           B         --> C
+11           A         --> A
+12           B         --> D
+13           A         --> B
+14           C           A
+15           A         --> C
+16           C         --> C
+17           B         --> D
+18           D           B
+19           A           C
+20           A           A
+
+Correct Questions: 10 / 20
+Percentage: 50.00%
+Result: FAILED
+----------------------------------------
+
+======================================
+CLASS GRADE REPORT
+=========================================
+Class Average: 66%
+Highest Score: 17 / 20 (Student1.txt)
+Lowest Score: 10 / 20 (10)
+==========================================

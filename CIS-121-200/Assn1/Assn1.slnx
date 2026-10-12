@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="CoffeeShop_Simulator/CoffeeShop_Simulator.vcxproj" Id="ddb5b1df-c960-4eaf-bec8-e0ff830d730d" />
+  <Project Path="OfficeSupply_Calculator/OfficeSupply_Calculator.vcxproj" Id="1d1cecb9-0f2d-4c34-9702-1fc3b5b080ea" />
+</Solution>

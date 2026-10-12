@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Example/Example.vcxproj" Id="22e99fce-eaf8-46e4-85d0-573e4061e289" />
+  <Project Path="Example2/Example2.vcxproj" Id="58df57a0-76f5-48ff-acc1-e2cc40f199b1" />
+  <Project Path="Exercise3/Exercise3.vcxproj" Id="aa0dc20c-48ce-463e-b130-0622ab550fcb" />
+  <Project Path="RockPaperSissorsGame/RockPaperSissorsGame.vcxproj" Id="837696c7-dc1a-43ad-80a1-2606226921d9" />
+</Solution>

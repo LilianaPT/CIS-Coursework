@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Example1/Example1.vcxproj" Id="b44c6bc1-a5bc-4c9e-a6f7-57677736a396" />
+  <Project Path="Example2/Example2.vcxproj" Id="a4aaa911-8d7d-4f92-b314-de0582478fa1" />
+  <Project Path="FileComparing/FileComparing.vcxproj" Id="259995db-9010-4db1-9683-799065e38a13" />
+  <Project Path="OutputFormatting/OutputFormatting.vcxproj" Id="8a50a1ac-5f50-4041-9f93-96f7c41ce227" />
+  <Project Path="VowelsAndConsonants/VowelsAndConsonants.vcxproj" Id="327348ff-e258-457a-9c66-d1fc18680d61" />
+</Solution>

@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Coins/Coins.vcxproj" Id="1de888be-289d-46aa-8a8b-fba5bc07da96" />
+  <Project Path="Module2_Lab2/Module2_Lab2.vcxproj" Id="40405ff5-336b-46b9-9dad-75cb19cf3c5e" />
+  <Project Path="TemperatureConversion/TemperatureConversion.vcxproj" Id="c1839927-2770-43e0-9ff2-99e65e8bd98c" />
+</Solution>

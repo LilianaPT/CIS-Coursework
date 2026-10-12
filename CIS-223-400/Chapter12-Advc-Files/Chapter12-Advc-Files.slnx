@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Classwork1/Classwork1.vcxproj" Id="a74d29ac-eb6a-4d40-9677-67b73e2d5d99" />
+  <Project Path="InventoryProgram/InventoryProgram.vcxproj" Id="3b2880ca-d9c8-421f-a4fd-da8bfcdfeb18" />
+  <Project Path="PunchLine/PunchLine.vcxproj" Id="8b34f9ee-8524-46da-b563-b97977f925d8" />
+  <Project Path="StringSearch/StringSearch.vcxproj" Id="0fde4d5d-1ce8-4e1e-a4d0-8a8f7b0ee5d6" />
+</Solution>
