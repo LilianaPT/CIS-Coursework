@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RotateLeft/RotateLeft.vcxproj" Id="ea02cc03-d7f4-4ae0-beec-2026d8e8470e" />
+</Solution>

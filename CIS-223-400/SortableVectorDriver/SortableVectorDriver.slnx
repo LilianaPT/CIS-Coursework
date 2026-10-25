@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SortableVectorDriver/SortableVectorDriver.vcxproj" Id="5f34d6e7-3502-4e7b-a340-cf1e968aa7fc" />
+</Solution>

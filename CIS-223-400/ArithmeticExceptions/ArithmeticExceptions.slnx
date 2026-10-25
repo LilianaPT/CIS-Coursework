@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ArithmeticExceptions/ArithmeticExceptions.vcxproj" Id="390d53b6-6057-4fba-aa25-01ac7c639bda" />
+</Solution>
