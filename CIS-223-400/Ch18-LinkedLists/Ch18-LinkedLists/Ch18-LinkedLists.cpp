@@ -27,6 +27,30 @@ void AppendNodes(char ch) {
     
 }
 
+void deleteNode(char ch) {
+    Alphabets* nptr,*prevptr;
+    if (!head) {
+        cout << "Empty list";
+        return;
+    }
+    else if (head->link == ch) {
+        nptr = head->next;
+        delete head;
+        head = nptr;
+    }
+    else {
+        while (!nptr && nptr->letter != ch) {
+            prevptr = nptr;
+            nptr = nptr->link;
+            nptr = nptr->link;
+        }
+    }
+    if (!nptr) {
+        prevptr->link = NULL;
+        delete nptr;
+    }
+}
+
 void displayLetters() {
     Alphabets* nptr;
     nptr = head;
